@@ -1,0 +1,12 @@
+/Users/usuario/Documents/estudio/EvaluacionT/Tekton.Products/Tekton.Products.Domain/bin/Debug/net8.0/Tekton.Products.Domain.deps.json
+/Users/usuario/Documents/estudio/EvaluacionT/Tekton.Products/Tekton.Products.Domain/bin/Debug/net8.0/Tekton.Products.Domain.dll
+/Users/usuario/Documents/estudio/EvaluacionT/Tekton.Products/Tekton.Products.Domain/bin/Debug/net8.0/Tekton.Products.Domain.pdb
+/Users/usuario/Documents/estudio/EvaluacionT/Tekton.Products/Tekton.Products.Domain/obj/Debug/net8.0/Tekton.Products.Domain.csproj.AssemblyReference.cache
+/Users/usuario/Documents/estudio/EvaluacionT/Tekton.Products/Tekton.Products.Domain/obj/Debug/net8.0/Tekton.Products.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Documents/estudio/EvaluacionT/Tekton.Products/Tekton.Products.Domain/obj/Debug/net8.0/Tekton.Products.Domain.AssemblyInfoInputs.cache
+/Users/usuario/Documents/estudio/EvaluacionT/Tekton.Products/Tekton.Products.Domain/obj/Debug/net8.0/Tekton.Products.Domain.AssemblyInfo.cs
+/Users/usuario/Documents/estudio/EvaluacionT/Tekton.Products/Tekton.Products.Domain/obj/Debug/net8.0/Tekton.Products.Domain.csproj.CoreCompileInputs.cache
+/Users/usuario/Documents/estudio/EvaluacionT/Tekton.Products/Tekton.Products.Domain/obj/Debug/net8.0/Tekton.Products.Domain.dll
+/Users/usuario/Documents/estudio/EvaluacionT/Tekton.Products/Tekton.Products.Domain/obj/Debug/net8.0/refint/Tekton.Products.Domain.dll
+/Users/usuario/Documents/estudio/EvaluacionT/Tekton.Products/Tekton.Products.Domain/obj/Debug/net8.0/Tekton.Products.Domain.pdb
+/Users/usuario/Documents/estudio/EvaluacionT/Tekton.Products/Tekton.Products.Domain/obj/Debug/net8.0/ref/Tekton.Products.Domain.dll
